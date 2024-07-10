@@ -12,9 +12,9 @@ Here's what we do:
 
 Now working at 
 
-Initia 
-0G 
-Fuel
+[Initia](https://github.com/Reactor7-Team/Initia)
+[0G](https://github.com/Reactor7-Team/-0G-Testnet)
+[Fuel](https://github.com/Reactor7-Team/fuel-specs)
 
 Social links
 
