@@ -16,4 +16,4 @@ Join us in powering the future of blockchain.
 
 [Twitter](https://x.com/Reactor7Team)
 [Discord](https://discord.com/users/938767098040172574/)
-[](https://www.example.com)
+[Keybase](https://keybase.io/reactor7team)
