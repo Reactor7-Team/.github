@@ -10,12 +10,7 @@ Here's what we do:
 • Network Participation: We actively participate in network governance, contributing to the growth and development of blockchain technology.
 • Custom Solutions: We craft tailored solutions to meet your specific needs.
 
-What makes Reactor7 Team different?
 
-• Experience: We're a team of seasoned blockchain experts, ready to tackle any challenge.
-• Innovation: We're constantly exploring new technologies and solutions to improve our services. 
-• Community: We believe in building a strong and vibrant decentralized community.
-• Reliability: You can count on us for consistent and dependable service.
 
 Join us in powering the future of blockchain.
 
