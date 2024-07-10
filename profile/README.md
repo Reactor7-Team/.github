@@ -16,7 +16,7 @@ Initia
 0G 
 Fuel
 
-Join us in powering the future of blockchain.
+Social links
 
 [Twitter](https://x.com/Reactor7Team)
 [Discord](https://discord.com/users/938767098040172574/)
