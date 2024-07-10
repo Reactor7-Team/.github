@@ -10,7 +10,11 @@ Here's what we do:
 • Network Participation: We actively participate in network governance, contributing to the growth and development of blockchain technology.
 • Custom Solutions: We craft tailored solutions to meet your specific needs.
 
+Now working at 
 
+Initia 
+0G 
+Fuel
 
 Join us in powering the future of blockchain.
 
