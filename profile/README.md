@@ -15,6 +15,8 @@ Now working at
 [Initia](https://github.com/Reactor7-Team/Initia)
 [0G](https://github.com/Reactor7-Team/-0G-Testnet)
 [Fuel](https://github.com/Reactor7-Team/fuel-specs)
+[Hyperliquid](https://github.com/Reactor7-Team/Hyperliquid/blob/main/README.md)
+
 
 Social links
 
