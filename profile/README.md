@@ -16,6 +16,7 @@ Now working at
 [0G](https://github.com/Reactor7-Team/-0G-Testnet)
 [Fuel](https://github.com/Reactor7-Team/fuel-specs)
 [Hyperliquid](https://github.com/Reactor7-Team/Hyperliquid/blob/main/README.md)
+[Nolus](https://github.com/Reactor7-Team/Nolus-Core)
 
 
 Social links
